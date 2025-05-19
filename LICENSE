@@ -1,24 +1,80 @@
-This is free and unencumbered software released into the public domain.
+# Proprietary License Agreement
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+**Stanford AI Cybersecurity Research (SAICR)**  
+**Copyright © 2025 Stanford University AI Research Center. All Rights Reserved.**
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+## 1. Ownership and Scope
 
-For more information, please refer to <https://unlicense.org>
+This repository and all of its contents, including but not limited to software, scripts, data, documentation, models, tools, and associated intellectual property (“the Materials”), are the exclusive property of the Stanford University AI Research Center (“the Center”).
+
+The Materials are strictly confidential and intended solely for authorized use within the Center or by personnel granted explicit written permission by the Center’s executive management.
+
+---
+
+## 2. Permitted Use
+
+- Access to and use of the Materials are restricted to approved members of the Stanford AI Cybersecurity Research Team and other individuals formally authorized by the Center.
+- The Materials may be used exclusively for internal research, security auditing, and authorized collaboration as defined by the Center’s operating procedures.
+- Any other use—including but not limited to commercial exploitation, distribution, publication, or disclosure—is expressly **prohibited** unless prior written consent is obtained from the Center.
+
+---
+
+## 3. Restrictions
+
+- No part of the Materials may be reproduced, distributed, transmitted, published, or disclosed in any form or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the Center’s express prior written consent.
+- Reverse engineering, decompilation, or modification of the Materials outside the scope of authorized internal research is strictly forbidden.
+- Unauthorized access, attempted access, or misuse of the Materials constitutes a violation of applicable law and may result in disciplinary, civil, or criminal penalties.
+
+---
+
+## 4. Confidentiality and Security
+
+- All users are required to safeguard the confidentiality and integrity of the Materials at all times.
+- Disclosure of any part of the Materials to external parties, including governmental or regulatory bodies, must follow applicable institutional and legal procedures, and may require explicit written authorization by the Center’s executive management.
+- Any suspected or actual breach of security must be reported immediately to the designated security officers of the Center.
+
+---
+
+## 5. Legal Compliance
+
+- The use of this repository and the Materials herein is subject to all applicable local, state, and federal laws and regulations of the United States, including the laws and regulations of the State of California.
+- Users are responsible for ensuring their actions are in compliance with all such laws and regulations.
+
+---
+
+## 6. Disclaimer of Warranty
+
+- The Materials are provided “AS IS” without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
+- The Center makes no representations or warranties regarding the accuracy, reliability, or completeness of the Materials, or their suitability for any specific purpose.
+
+---
+
+## 7. Limitation of Liability
+
+- In no event shall the Center, its officers, employees, or affiliates be liable for any direct, indirect, incidental, special, consequential, or exemplary damages arising from the use or misuse of the Materials, even if advised of the possibility of such damages.
+
+---
+
+## 8. Amendments
+
+- The Center reserves the right to amend or update this License Agreement at any time without prior notice.
+- Continued use of the Materials after any such amendment constitutes acceptance of the revised terms.
+
+---
+
+## 9. Governing Law
+
+This License Agreement shall be governed by, and construed in accordance with, the laws of the State of California and the United States of America, without regard to its conflict of law principles.  
+Any dispute arising from or relating to this Agreement shall be subject to the exclusive jurisdiction of the courts located in Santa Clara County, California.
+
+---
+
+*For questions regarding this License Agreement or requests for additional permissions, please contact:*  
+Stanford University AI Research Center  
+[cybersec@stanford.edu](mailto:cybersec@stanford.edu)
+
+---
+
+
